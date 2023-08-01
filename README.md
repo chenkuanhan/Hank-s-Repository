@@ -4,3 +4,8 @@
 - 知識點
   
     > 強調
+```Python```
+
+~~~~~~python
+print("Hello World")
+~~~~~~
